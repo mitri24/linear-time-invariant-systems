@@ -8,7 +8,7 @@ This lab explores **Linear Time-Invariant (LTI) Systems** in two parts:
 
 ---
 
-## 🧪 Part 1: Simulating an RLC Series Circuit
+## Part 1: Simulating an RLC Series Circuit
 
 An RLC series circuit consists of three components in series:
 
